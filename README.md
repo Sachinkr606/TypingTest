@@ -58,7 +58,7 @@ Results popup
 
 🚀 How to Run
 1. Clone the repository
-git clone https://github.com/[yourusername]Sachinkr606/TypingTest/new/main/typing-speed-test.git
+git clone https://github.com/Sachinkr606/TypingTest
 2. Open the project
 cd typing-speed-test
 3. Run the Python file
